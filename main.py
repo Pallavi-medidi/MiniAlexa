@@ -36,7 +36,7 @@ def run_alexa():
         else:
             print('you said : ' + command)
         if 'hello' in command:
-            print('hello how can i helpp you ??')
+            print('hello how can i help you ??')
             engine_talk('hello, how can i help you ??')
         elif 'who are you' in command:
             print('I am mini alexa a k a your virtual assistant master')
